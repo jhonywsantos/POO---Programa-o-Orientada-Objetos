@@ -1,4 +1,4 @@
-// Integrantes: JHONY WICTOR DO NASCIMENTOS SANTOS, MAYARA DA SILVA BARBOSA
+// Integrantes: JHONY WICTOR DO NASCIMENTOS SANTOS
 // Objetivo.: Implementar o Sistema CRUD (Creat, Read, Uptade, Delete) em uma academia que visa 
 // montar treinos e dietas personalizadas para os seus alunos matriculados.
 
